@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b450a982-ef62-4f42-b7aa-b33299345c98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day_4_class_vs_instance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_5_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_6_review.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,10 +27,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day_3_Intro_to_Conditional Statements.py">
+        <entry file="file://$PROJECT_DIR$/day_3_Intro_to_conditional_statements.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+              <folding>
+                <element signature="e#16#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day_4_class_vs_instance.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day_5_loops.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#16#27#0" expanded="true" />
               </folding>
@@ -38,12 +60,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day_4_class_vs_instance.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/day_6_review.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -63,14 +81,15 @@
       <list>
         <option value="$PROJECT_DIR$/day_2_operators" />
         <option value="$PROJECT_DIR$/day_3_intro_conditional_statements.py" />
-        <option value="$PROJECT_DIR$/day_5_loops.py" />
         <option value="$PROJECT_DIR$/day_2_operators.py" />
         <option value="$PROJECT_DIR$/day_3_Intro_to_Conditional Statements.py" />
         <option value="$PROJECT_DIR$/day_4_class_vs_instance.py" />
+        <option value="$PROJECT_DIR$/day_5_loops.py" />
+        <option value="$PROJECT_DIR$/day_6_review.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="8" />
     <option name="y" value="23" />
     <option name="width" value="1389" />
@@ -131,7 +150,7 @@
     <option name="totallyTimeSpent" value="1611000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="8" y="23" width="1389" height="780" extended-state="0" />
+    <frame x="8" y="23" width="1389" height="780" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25315517" />
@@ -164,7 +183,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/day_3_intro_conditional_statements.py" />
-    <entry file="file://$PROJECT_DIR$/day_5_loops.py" />
     <entry file="file://$PROJECT_DIR$/day_1_data_types.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -178,10 +196,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day_3_Intro_to_Conditional Statements.py">
+    <entry file="file://$PROJECT_DIR$/day_3_Intro_to_conditional_statements.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
           <folding>
             <element signature="e#16#27#0" expanded="true" />
           </folding>
@@ -191,9 +209,22 @@
     <entry file="file://$PROJECT_DIR$/day_4_class_vs_instance.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_5_loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_6_review.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
