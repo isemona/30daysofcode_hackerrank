@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b450a982-ef62-4f42-b7aa-b33299345c98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day_5_loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_6_review.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b450a982-ef62-4f42-b7aa-b33299345c98" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +55,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day_6_review.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day_7_arrays.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -86,10 +87,11 @@
         <option value="$PROJECT_DIR$/day_4_class_vs_instance.py" />
         <option value="$PROJECT_DIR$/day_5_loops.py" />
         <option value="$PROJECT_DIR$/day_6_review.py" />
+        <option value="$PROJECT_DIR$/day_7_arrays.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="8" />
     <option name="y" value="23" />
     <option name="width" value="1389" />
@@ -150,8 +152,7 @@
     <option name="totallyTimeSpent" value="1611000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="8" y="23" width="1389" height="780" extended-state="1" />
-    <editor active="true" />
+    <frame x="8" y="23" width="1389" height="780" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25315517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -224,6 +225,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day_6_review.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_7_arrays.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
