@@ -14,4 +14,3 @@ if __name__ == '__main__':
     a = list(input().rstrip().split())
     print(' '.join(reversed(a)))
 
-    
