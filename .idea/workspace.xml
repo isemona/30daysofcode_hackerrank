@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b450a982-ef62-4f42-b7aa-b33299345c98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day_8_dictionaries_and_maps.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_7_arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_7_arrays.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,13 +74,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day_8_dictionaries_and_maps.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day_9_recursion.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -109,12 +112,13 @@
         <option value="$PROJECT_DIR$/day_6_review.py" />
         <option value="$PROJECT_DIR$/day_7_arrays.py" />
         <option value="$PROJECT_DIR$/day_8_dictionaries_and_maps.py" />
+        <option value="$PROJECT_DIR$/day_9_recursion.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="155" />
-    <option name="y" value="184" />
+    <option name="y" value="183" />
     <option name="width" value="1149" />
     <option name="height" value="504" />
   </component>
@@ -173,8 +177,7 @@
     <option name="totallyTimeSpent" value="1611000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="155" y="184" width="1149" height="504" extended-state="0" />
-    <editor active="true" />
+    <frame x="155" y="183" width="1149" height="504" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3242999" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -262,9 +265,12 @@
     <entry file="file://$PROJECT_DIR$/day_8_dictionaries_and_maps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_9_recursion.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
